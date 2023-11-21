@@ -1,0 +1,16 @@
+body
+{
+    margin: auto;
+    padding: 0;
+    background-color:#6abadeba;
+    border-top-right-radius: 20 30px;
+    
+}
+.login{
+        width: 382px;
+        margin: auto;
+        margin: 20 0 0 50px;
+        padding: 80px;
+        background: #c1d5d1;
+        border-radius: 15px ;
+}
